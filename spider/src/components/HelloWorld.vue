@@ -73,10 +73,9 @@
       </li>
       <li>
         <a
-          href="https://github.com/vuejs/awesome-vue"
-          target="_blank"
+          href="/#/button"
         >
-          awesome-vue
+          button页面
         </a>
       </li>
     </ul>
